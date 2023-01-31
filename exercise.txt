@@ -1,0 +1,7 @@
+const PI = 3.14;
+
+Quiz
+- var can be redeclared and has function level scope; let can not be redeclared and has block leve scope
+- const can not be redeclared or reassigned; it also has block-level scope
+- let can be re-assigned; const can not.
+- hoisting - variables declared with var, are initilized with a value of undefined before the rest of the code runs.
